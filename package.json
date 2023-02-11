@@ -1,0 +1,21 @@
+{
+  "name": "rainy-tokyo",
+  "displayName": "Rainy Tokyo",
+  "description": "This is a beautiful and cozy theme that will transport you to a rainy day in the capital of Japan. The dark shades of graphite and light accents remind you of the cool and calming rain, while the bright syntax colors help you stand out and focus on the code. This theme is suitable for developers who are looking for a calm and aesthetically pleasing work environment.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rainy Tokyo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rainy Tokyo-color-theme.json"
+      }
+    ]
+  }
+}
